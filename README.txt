@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Number Guesser project in Codecademy
